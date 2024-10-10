@@ -1,3 +1,5 @@
+I was able to write this contract with the help of Block Explorer YOUTUBE ACCOUNT, so shout out to him
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
